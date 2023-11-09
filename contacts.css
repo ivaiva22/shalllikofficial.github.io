@@ -1,0 +1,54 @@
+.div0{
+    display: flex;
+    background-color: #6F87AC;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1817px;
+}
+
+.logo{
+    width: 100px;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+}
+
+.div1{
+    width: 200px;
+}
+
+.div2{
+    color: #FFF;
+    font-family: Poiret One;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.div3{
+    color: #FFF;
+    font-family: Poiret One;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 50px;
+}
+
+.div4{
+    color: #FFF;
+    font-family: Poiret One;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 50px
+}
+
+.h12{
+    position: absolute;
+    top: 150px;
+}

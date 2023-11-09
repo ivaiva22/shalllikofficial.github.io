@@ -1,0 +1,79 @@
+.div0{
+    display: flex;
+    background-color: #6F87AC;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1817px;
+}
+
+.logo{
+    width: 100px;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+}
+
+.div1{
+    width: 200px;
+}
+
+.div2{
+    color: #FFF;
+    font-family: Poiret One;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.div3{
+    color: #FFF;
+    font-family: Poiret One;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 50px;
+}
+
+.div4{
+    color: #FFF;
+    font-family: Poiret One;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 50px
+}
+
+.dividk{
+    height: 300px;
+}
+
+.bk1{
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 1817px;
+    height: 1080px;
+}
+
+.div11{
+    color: #1A1A1A;
+    text-align: center;
+    font-family: serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 900px;
+    height: 300px;
+}
+
+.div10{
+    display: flex;
+    justify-content: center;
+}
